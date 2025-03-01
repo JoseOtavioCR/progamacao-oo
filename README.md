@@ -1,2 +1,4 @@
 # progamacao-oo
-aaaaaa
+Progamação estruturada
+Análise e Desenvolvimento de Sistemas
+José Otávio Chacorowski Raimundo
